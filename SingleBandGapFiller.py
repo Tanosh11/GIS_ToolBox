@@ -8,7 +8,7 @@
 # Copyright:   (c) qgeddes 2013
 # Licence:     <your licence>
 #-------------------------------------------------------------------------------
-#Change
+#Change to the script
 import arcpy
 arcpy.CheckOutExtension("Spatial")
 arcpy.env.overwriteOutput=True
